@@ -26,5 +26,3 @@ app.get('/bad',(req,res)=>{
         errorMessage : 'Unable to handle request'
     }); 
 });
-
-app.listen(1500);
