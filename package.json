@@ -9,7 +9,7 @@
   },
   "engine": {
   "node": "8.11.1",
-  "npm" :"5.6.0",
+  "npm" :"5.6.0"
   },
   "author": "",
   "license": "ISC",
